@@ -3,7 +3,7 @@
 I'm a PoliSci graduate that loves data and mobile development!
 
 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/salvadorfrias)
+![Image](/assets/linkedin.png =20x20) [LinkedIn](https://www.linkedin.com/in/salvadorfrias)
 <!--
 **salvadorfrs5/salvadorfrs5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
