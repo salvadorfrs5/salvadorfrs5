@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Salvador!
 
-I'm a PoliSci graduate that loves AI, data, and mobile development!
+I'm a PoliSci graduate who loves AI, data, and mobile development!
 
 Let's connect:
 
